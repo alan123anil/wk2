@@ -3,7 +3,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #098258;
+  background: #f80032;
   padding: 15px 20px;
   color: white;
   font-size: 18px;
@@ -56,5 +56,5 @@
 }
 
 .logout-btn:hover {
-  background: #333;
+  background: #24f2f9;
 }

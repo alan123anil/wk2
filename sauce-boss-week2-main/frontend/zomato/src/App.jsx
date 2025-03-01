@@ -17,7 +17,7 @@ const Navbar = ({ isLoggedIn, setIsLoggedIn }) => {
 
   return (
     <nav className="navbar">
-      <Link to="/" className="nav-brand">Sauce Boss</Link>
+      <Link to="/" className="nav-brand">food world</Link>
       <div className="nav-links">
         {isLoggedIn ? (
           <>

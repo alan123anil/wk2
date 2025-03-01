@@ -9,7 +9,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   background-color: #f9f9f9;
-  color: #333;
+  color: #f50404;
   line-height: 1.6;
 }
 
@@ -36,7 +36,7 @@ body {
 }
 
 .btn-primary {
-  background-color: #ff5a5f;
+  background-color: #c40007;
   color: white;
   border: none;
 }
@@ -47,7 +47,7 @@ body {
 
 .btn-secondary {
   background-color: #ddd;
-  color: #333;
+  color: #000000;
 }
 
 .btn-secondary:hover {
